@@ -1,2 +1,2 @@
-# polynomial_library
+# Polynomial Library
 Programming I final project: polynomial library supporting basic operations such as addition, multiplication...
